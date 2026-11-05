@@ -1,0 +1,22 @@
+{
+  "name": "the-banana-game-enterprise",
+  "version": "1.0.0",
+  "description": "Full-stack Banana Game for CIS046-3 Software For Enterprise (MySQL, Express, React, Node)",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "server:dev": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node run-all.js"
+  },
+  "keywords": [
+    "banana-game",
+    "enterprise-software",
+    "cis046-3",
+    "react",
+    "express",
+    "mysql"
+  ],
+  "author": "University of Bedfordshire Student",
+  "license": "ISC"
+}

@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "BananaMaster",
+      "email": "master@banana.uob",
+      "password_hash": "$2a$10$5rFQuprRrr7bJ93Zgc7PdODhRCfhPE2jPtmhxxQviwPyZIZwr.rQq",
+      "avatar": "🍌 Banana King",
+      "bio": "Undefeated banana mathematician!",
+      "created_at": "2026-11-05T14:42:34.402Z"
+    },
+    {
+      "id": 2,
+      "username": "ChimpChampion",
+      "email": "chimp@banana.uob",
+      "password_hash": "$2a$10$XT2R3zcOpIdgPoEKv09Se.eXtl7bbjLp9EdwB6xQk1Yw88wYzbfJm",
+      "avatar": "🐒 Cheeky Monkey",
+      "bio": "Solving bananas at light speed!",
+      "created_at": "2026-11-05T14:42:34.482Z"
+    },
+    {
+      "id": 3,
+      "username": "JungleQueen",
+      "email": "queen@banana.uob",
+      "password_hash": "$2a$10$stuZGIXk6BwYqvRjIpIH.eedZoi9TuqZOJc35jf9KpsilXs4W0dee",
+      "avatar": "👑 Gold Banana",
+      "bio": "All bananas belong in my basket.",
+      "created_at": "2026-11-05T14:42:34.565Z"
+    },
+    {
+      "id": 4,
+      "username": "TropicThinker",
+      "email": "tropic@banana.uob",
+      "password_hash": "$2a$10$5/A/nyLfb.rUNw5.b33RA.e034iJG9Y8jXqJVJmBRsOF9ucbaLiSq",
+      "avatar": "🌴 Jungle Explorer",
+      "bio": "Calculating formulas under palm trees.",
+      "created_at": "2026-11-05T14:42:34.661Z"
+    },
+    {
+      "id": 5,
+      "username": "ByteMonkey",
+      "email": "byte@banana.uob",
+      "password_hash": "$2a$10$Vkw4YhMLDs7E.K96ZFoX4.2IIOGFtZx7Mz2iGM/st.ice4mLFzEsO",
+      "avatar": "⚡ Speed Chimp",
+      "bio": "Event-driven banana processor.",
+      "created_at": "2026-11-05T14:42:34.742Z"
+    },
+    {
+      "id": 6,
+      "username": "TestPlayer1",
+      "email": "test1@banana.uob",
+      "password_hash": "$2a$10$ekXmG1DBxRFWy1M4SW41z.L9jyjhQfSkSuBmdei5v4gmAPNTg9B/G",
+      "avatar": "🍌 Banana King",
+      "bio": "Ready to solve banana equations!",
+      "created_at": "2026-11-05T15:00:02.890Z"
+    }
+  ],
+  "user_stats": [
+    {
+      "user_id": 1,
+      "high_score": 4953,
+      "total_score": 4953,
+      "games_played": 20,
+      "correct_answers": 49,
+      "incorrect_answers": 13,
+      "hints_used": 3,
+      "current_streak": 0,
+      "best_streak": 12
+    },
+    {
+      "user_id": 2,
+      "high_score": 1280,
+      "total_score": 3950,
+      "games_played": 15,
+      "correct_answers": 41,
+      "incorrect_answers": 6,
+      "hints_used": 5,
+      "current_streak": 4,
+      "best_streak": 9
+    },
+    {
+      "user_id": 3,
+      "high_score": 1120,
+      "total_score": 3100,
+      "games_played": 12,
+      "correct_answers": 33,
+      "incorrect_answers": 5,
+      "hints_used": 4,
+      "current_streak": 3,
+      "best_streak": 8
+    },
+    {
+      "user_id": 4,
+      "high_score": 940,
+      "total_score": 2400,
+      "games_played": 10,
+      "correct_answers": 25,
+      "incorrect_answers": 7,
+      "hints_used": 6,
+      "current_streak": 2,
+      "best_streak": 6
+    },
+    {
+      "user_id": 5,
+      "high_score": 780,
+      "total_score": 1890,
+      "games_played": 8,
+      "correct_answers": 20,
+      "incorrect_answers": 8,
+      "hints_used": 7,
+      "current_streak": 1,
+      "best_streak": 5
+    },
+    {
+      "user_id": 6,
+      "high_score": 0,
+      "total_score": 0,
+      "games_played": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "hints_used": 0,
+      "current_streak": 0,
+      "best_streak": 0
+    }
+  ],
+  "active_rounds": {
+    "fe884f3c-5245-445c-993f-6d84cdba2eb6": {
+      "round_id": "fe884f3c-5245-445c-993f-6d84cdba2eb6",
+      "user_id": 6,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/tc286c4e2a0003e3659371d736bn93.png",
+      "raw_solution": 3,
+      "encrypted_solution": "072aefae746a9f12e78523d73a4eb25650881aa01c51ef026255eaac0b0c46f6",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793890803344,
+      "status": "active",
+      "created_at": "2026-11-05T15:00:03.344Z"
+    },
+    "f51ef684-c740-46d9-9603-3938e9d992da": {
+      "round_id": "f51ef684-c740-46d9-9603-3938e9d992da",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/tc9d31fc3a6ac1a87f124facb33n70.png",
+      "raw_solution": 0,
+      "encrypted_solution": "277074d5ab9f6603f181e5fe61e4aea6093874e28cf159b3912090a73a7ed93d",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793890911021,
+      "status": "failed",
+      "created_at": "2026-11-05T15:01:51.021Z"
+    },
+    "14d55309-4253-4f1f-9f97-e430823d96e0": {
+      "round_id": "14d55309-4253-4f1f-9f97-e430823d96e0",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t1d12974cf5ff970d3e50437818n62.png",
+      "raw_solution": 2,
+      "encrypted_solution": "3ee27dec436ee7bdce2eb9d74469ad679814568397cae3e086be856afdf1a3b8",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793892816968,
+      "status": "solved",
+      "created_at": "2026-11-05T15:33:36.968Z"
+    },
+    "0d06149a-6765-45cb-9b87-a5a23600fc1d": {
+      "round_id": "0d06149a-6765-45cb-9b87-a5a23600fc1d",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t1ec02f6a3d044617a4ec3f22b9n11.png",
+      "raw_solution": 1,
+      "encrypted_solution": "7bedec1c4200a4e1b415df60698e3c3bbd1d04ab78de4f10a9b431efcc99d497",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793892824103,
+      "status": "failed",
+      "created_at": "2026-11-05T15:33:44.103Z"
+    },
+    "fbd98462-68d7-4ee8-98d7-31d56a049232": {
+      "round_id": "fbd98462-68d7-4ee8-98d7-31d56a049232",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t1fd81573c8d3fe70235a566b72n3.png",
+      "raw_solution": 3,
+      "encrypted_solution": "f5b46437bf448b3a9ce7ec8a2e19281e97f694e5de291ec704bac8e75fd868d6",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793892826217,
+      "status": "failed",
+      "created_at": "2026-11-05T15:33:46.217Z"
+    },
+    "133acbb4-e520-426b-aa5d-353f4fab7698": {
+      "round_id": "133acbb4-e520-426b-aa5d-353f4fab7698",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t25954f30aeb926d65b1f36f6den17.png",
+      "raw_solution": 7,
+      "encrypted_solution": "4b721c674ca1a426aa86ff3c200ea0f3426c7d01d3416faf5a1dbb25ecbe58d5",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793892832203,
+      "status": "failed",
+      "created_at": "2026-11-05T15:33:52.203Z"
+    },
+    "89441a1b-afd0-459d-a33a-e0b15b96b6b8": {
+      "round_id": "89441a1b-afd0-459d-a33a-e0b15b96b6b8",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t27f21a4fa747ab5346ef03c14dn104.png",
+      "raw_solution": 4,
+      "encrypted_solution": "aa4e01a6eae476b34138ea6bc1a76d6356df77d9d83594e8ac3acd514c3deee6",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793892833919,
+      "status": "active",
+      "created_at": "2026-11-05T15:33:53.919Z"
+    },
+    "4d215de3-760d-4881-bd9f-114c17417618": {
+      "round_id": "4d215de3-760d-4881-bd9f-114c17417618",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t280481bed5d239d6be3f798dc5n57.png",
+      "raw_solution": 7,
+      "encrypted_solution": "79ef68f418814f86433bd4630decfbe50ef45f358553257fca9e5af3459500d9",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793893026781,
+      "status": "failed",
+      "created_at": "2026-11-05T15:37:06.781Z"
+    },
+    "e5717312-73bb-4d2b-9f25-f7a27664965c": {
+      "round_id": "e5717312-73bb-4d2b-9f25-f7a27664965c",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t2a00aef5096fb5d4353727deb1n49.png",
+      "raw_solution": 9,
+      "encrypted_solution": "a7d93295fc10ea880a89e9a6addb0dcbb3796a0e719f217e6f315646707acedb",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793893030572,
+      "status": "failed",
+      "created_at": "2026-11-05T15:37:10.572Z"
+    },
+    "2415edfc-beb7-47b0-914e-cddc7c5c036f": {
+      "round_id": "2415edfc-beb7-47b0-914e-cddc7c5c036f",
+      "user_id": 1,
+      "question_url": "https://www.sanfoh.com/uob/banana/data/t2cadcec8b8ac2cd963ef035c14n109.png",
+      "raw_solution": 9,
+      "encrypted_solution": "f6d26c56fd6e767d3c4521dc102960a0f794635442fe9d74b37950d4a6374188",
+      "hints_used": 0,
+      "hints_revealed": [],
+      "start_time": 1793893032500,
+      "status": "failed",
+      "created_at": "2026-11-05T15:37:12.500Z"
+    }
+  },
+  "game_history": [
+    {
+      "id": 2,
+      "user_id": 1,
+      "score": 0,
+      "rounds_completed": 0,
+      "hints_used": 0,
+      "accuracy": 0,
+      "played_at": "2026-11-05T15:37:12.575Z"
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "score": 133,
+      "rounds_completed": 1,
+      "hints_used": 0,
+      "accuracy": 17,
+      "played_at": "2026-11-05T15:33:52.452Z"
+    }
+  ]
+}
